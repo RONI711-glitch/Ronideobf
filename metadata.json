@@ -1,0 +1,6 @@
+{
+  "name": "RONI Deobfuscator | Discord Bot & Engine Monitor",
+  "description": "Multi-engine Lua deobfuscation Discord bot with real-time engine telemetry, Luraph v15, Prometheus, Clyde, Moonsec, Ironveil support, and RONI server tag verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
